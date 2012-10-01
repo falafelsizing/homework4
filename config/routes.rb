@@ -1,9 +1,12 @@
+root :to => 'musics#index'
+
 Homework4::Application.routes.draw do
   resources :reviews
 
   resources :ratings
 
   resources :musics
+    
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
