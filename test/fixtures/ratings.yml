@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  album: MyString
+  rating: 1
+
+two:
+  album: MyString
+  rating: 1
